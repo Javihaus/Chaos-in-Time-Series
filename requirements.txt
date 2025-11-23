@@ -1,0 +1,30 @@
+# Chaos Theory in Time Series Analysis
+# Python dependencies
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Statistical analysis
+statsmodels>=0.12.0
+
+# Nonlinear dynamics and chaos theory
+nolds>=0.5.2
+
+# Dynamic systems visualization (optional)
+pynamical>=0.3.0
+
+# Progress bars
+tqdm>=4.62.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# For displaying DataFrames in notebooks
+ipython>=7.0.0
