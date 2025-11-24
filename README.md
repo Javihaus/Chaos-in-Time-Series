@@ -1,8 +1,15 @@
 # Chaos Theory in Time Series Analysis
 
+<div align="center">
+   
+<img src="Lorenz_attractor_yb.svg"  width="55%" />
+
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Last Updated](https://img.shields.io/badge/Updated-November%202025-green.svg)]()
+
+</div>
 
 A comprehensive Python toolkit for detecting and analyzing chaotic dynamics in time series data, with particular emphasis on financial market applications. This repository provides implementations of key chaos theory metrics including Lyapunov exponents, Hurst exponent, sample entropy, and fractal dimension analysis.
 
